@@ -1,0 +1,40 @@
+Item Name: Bread1
+Item Price: 1
+Item Quantity: 12
+---------------------------
+Item Name: Bread2
+Item Price: 2
+Item Quantity: 14
+---------------------------
+Item Name: Cake1
+Item Price: 4
+Item Quantity: 6
+---------------------------
+Item Name: Cake2
+Item Price: 6
+Item Quantity: 5
+---------------------------
+Item Name: Cookie1
+Item Price: 3
+Item Quantity: 16
+---------------------------
+Item Name: Cookie2
+Item Price: 2
+Item Quantity: 19
+---------------------------
+Item Name: Desert1
+Item Price: 8
+Item Quantity: 20
+---------------------------
+Item Name: Desert2
+Item Price: 6
+Item Quantity: 18
+---------------------------
+Item Name: Cofee1
+Item Price: 3
+Item Quantity: 50
+---------------------------
+Item Name: Coffee2
+Item Price: 4
+Item Quantity: 50
+---------------------------
